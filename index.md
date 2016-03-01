@@ -46,5 +46,5 @@ solutions to increase speed.
 * Currently under development at [github.com/benrbrook/bikebin](https://github.com/benrbrook/bikebin), with a live version at [bikebin.co](http://bikebin.co).
 * Built with Meteor, which runs on top of Node.js to allow for both front and back end development in JavaScript.
 
-![Bikebin page](benbrook.me/var/www/html/images/bikebin.png)
+![Bikebin page](benbrook.me/images/bikebin.png)
 
