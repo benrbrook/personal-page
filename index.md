@@ -10,7 +10,7 @@ layout: default
 
 #### Mentor Graphics: *Software Engineering Intern*
 
-**_March 2015-September 2015_**
+**_March 2015 - September 2015_**
 
 * Wrote a new error reporting system in C++ that streamlined the process for developers to output and filter error messages and warnings.
 * Expanded the coverage of regression tests for products with limited testing.
@@ -21,7 +21,7 @@ solutions to increase speed.
 
 #### Oregon State University Department of Computer Science: *Student Researcher*
 
-**_September 2015-Present_**
+**_September 2015 - Present_**
 
 * Assist Dr. Scott Sanner and one of his graduate students in machine learning research. 
 * Gather large geospatial datasets for use in piecewise Bayesian models.
@@ -31,7 +31,7 @@ solutions to increase speed.
 
 #### Business Solutions Group: *Student Lab Manager*
 
-**_April 2013-Present_**
+**_April 2013 - Present_**
 
 * Perform various hardware and software tests on enterprise networking equipment. – Coordinate new and upcoming projects for a lab of 5-6 students.
 * Create bug reports for developers.
