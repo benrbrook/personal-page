@@ -25,7 +25,7 @@ solutions to increase speed.
 
 * Assist Dr. Scott Sanner and one of his graduate students in machine learning research. 
 * Gather large geospatial datasets for use in piecewise Bayesian models.
-* Presented a poster at the 2016 Oregon State Graduate Student Expo
+* Presented a poster at the 2016 Oregon State Graduate Research Expo
 
 ---
 
