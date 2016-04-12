@@ -21,10 +21,10 @@ solutions to increase speed.
 
 #### Oregon State University Department of Computer Science: *Student Researcher*
 
-**_September 2015 - Present_**
+**_September 2015 - March 2015_**
 
-* Assist Dr. Scott Sanner and one of his graduate students in machine learning research. 
-* Gather large geospatial datasets for use in piecewise Bayesian models.
+* Assisted Dr. Scott Sanner and one of his graduate students in machine learning research. 
+* Gathered large geospatial datasets for use in piecewise Bayesian models.
 * Presented a poster at the 2016 Oregon State Graduate Research Expo
 
 ---
