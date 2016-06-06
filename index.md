@@ -60,6 +60,6 @@ solutions to increase speed.
 * Predicted crime category (assault, robbery, vandalism, etc.) based on time and location.
 * Compared the viability of different classifiers (k-NN, random forest, etc.).
 * High accuracy (log loss of 3.5) with tuned hyperparameters. 
-* Created a report [viewable here](documents/san-francisco-crime.pdf)
+* Created a report [viewable here](documents/san-francisco-crime.pdf). 
 
 
