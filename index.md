@@ -44,9 +44,22 @@ solutions to increase speed.
 
 ### BikeBin
 
+![Bikebin page](images/bikebin.png)
+
 * [BikeBin](http://bikebin.co) is an ongoing project that allows proud bike owners to share their bikes with other passionate enthusiasts.
 * Currently under development at [github.com/benrbrook/bikebin](https://github.com/benrbrook/bikebin), with a live version at [bikebin.co](http://bikebin.co).
 * Built with Meteor, which runs on top of Node.js to allow for both front and back end development in JavaScript.
 
-![Bikebin page](images/bikebin.png)
+
+### SF Crime Classification
+
+![SF Crime](images/sfcrimeviz.png)
+
+* Final project for CS 434 Machine Learning.
+* We took 12 years of crime data from the City of San Francisco.
+* Predicted crime category (assault, robbery, vandalism, etc.) based on time and location.
+* Compared the viability of different classifiers (k-NN, random forest, etc.).
+* High accuracy (log loss of 3.5) with tuned hyperparameters. 
+* Created a report [viewable here](documents/san-francisco-crime.pdf)
+
 
