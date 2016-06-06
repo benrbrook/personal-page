@@ -42,7 +42,7 @@ solutions to increase speed.
 
 ---
 
-### BikeBin
+#### BikeBin
 
 ![Bikebin page](images/bikebin.png)
 
@@ -51,7 +51,7 @@ solutions to increase speed.
 * Built with Meteor, which runs on top of Node.js to allow for both front and back end development in JavaScript.
 
 
-### SF Crime Classification
+#### SF Crime Classification
 
 ![SF Crime](images/sfcrimeviz.png)
 
