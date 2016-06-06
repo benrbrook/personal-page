@@ -42,6 +42,8 @@ solutions to increase speed.
 
 ---
 
+### BikeBin
+
 * [BikeBin](http://bikebin.co) is an ongoing project that allows proud bike owners to share their bikes with other passionate enthusiasts.
 * Currently under development at [github.com/benrbrook/bikebin](https://github.com/benrbrook/bikebin), with a live version at [bikebin.co](http://bikebin.co).
 * Built with Meteor, which runs on top of Node.js to allow for both front and back end development in JavaScript.
