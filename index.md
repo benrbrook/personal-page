@@ -31,7 +31,7 @@ solutions to increase speed.
 
 #### Business Solutions Group: *Student Lab Manager*
 
-**_April 2013 - Present_**
+**_April 2013 - June 2016_**
 
 * Perform various hardware and software tests on enterprise networking equipment. – Coordinate new and upcoming projects for a lab of 5-6 students.
 * Create bug reports for developers.
