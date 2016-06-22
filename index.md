@@ -8,6 +8,14 @@ layout: default
 
 ---
 
+#### TrueCar: *Software Engineering Intern*
+
+**_June 2016 - Present_**
+
+* Develop and test new machine learning models for price prediction.
+
+---
+
 #### Mentor Graphics: *Software Engineering Intern*
 
 **_March 2015 - September 2015_**
