@@ -41,7 +41,8 @@ solutions to increase speed.
 
 **_April 2013 - June 2016_**
 
-* Perform various hardware and software tests on enterprise networking equipment. – Coordinate new and upcoming projects for a lab of 5-6 students.
+* Perform various hardware and software tests on enterprise networking equipment. 
+* Coordinate new and upcoming projects for a lab of 5-6 students.
 * Create bug reports for developers.
 
 
