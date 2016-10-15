@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## computer science student at oregon state university, class of 2016
+## software engineering intern
 
 ### Work Experience
 
@@ -12,7 +12,9 @@ layout: default
 
 **_June 2016 - Present_**
 
-* Develop and test new machine learning models for price prediction.
+* Created Spark pipelines for data processing and machine learning to aid price prediction.
+* Developed an API server in Scala to quickly run data against the model.
+* Created a front end for the API in React.js.
 
 ---
 
@@ -45,6 +47,14 @@ solutions to increase speed.
 * Coordinate new and upcoming projects for a lab of 5-6 students.
 * Create bug reports for developers.
 
+
+### Education
+
+---
+
+#### Oregon State University: *BS Computer Science w/ Computer Systems*
+
+**_January 2013 - September 2016_**
 
 
 ### Projects
