@@ -12,9 +12,9 @@ layout: default
 
 **_June 2016 - Present_**
 
-* Created Spark pipelines for data processing and machine learning to aid price prediction.
-* Developed an API server in Scala to quickly run data against the model.
-* Created a front end for the API in React.js.
+* Create Spark pipelines for data processing and machine learning to aid price prediction.
+* Develop a highly efficient API server in Scala to evaluate predictions and update models.
+* Create a front end for the API in React.js.
 
 ---
 
