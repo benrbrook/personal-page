@@ -2,15 +2,19 @@
 layout: default
 ---
 
-## software engineering intern
+## software engineer @ TrueCar
 
 ### Work Experience
 
 ---
 
+#### TrueCar: *Software Engineer*
+
+**_January 2017 - Present_**
+
 #### TrueCar: *Software Engineering Intern*
 
-**_June 2016 - Present_**
+**_June 2016 - December 2016_**
 
 * Create Spark pipelines for data processing and machine learning to aid price prediction.
 * Develop a highly efficient API server in Scala to evaluate predictions and update models.
@@ -24,8 +28,7 @@ layout: default
 
 * Wrote a new error reporting system in C++ that streamlined the process for developers to output and filter error messages and warnings.
 * Expanded the coverage of regression tests for products with limited testing.
-* Performed performance analyses to find hotspots in code and worked on several potential
-solutions to increase speed.
+* Performed performance analyses to find hotspots in code and worked on several potential solutions to increase speed.
 
 ---
 
