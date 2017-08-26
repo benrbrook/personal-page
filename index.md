@@ -12,6 +12,8 @@ layout: default
 
 **_January 2017 - Present_**
 
+Ruby on Rails development w/ some React/Gluestick front-end work.
+
 #### TrueCar: *Software Engineering Intern*
 
 **_June 2016 - December 2016_**
